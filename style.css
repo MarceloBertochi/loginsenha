@@ -1,11 +1,27 @@
-form {
+orm {
+    margin-top: 30%;
+    background: rgb(69, 37, 230);
+    padding: 40px;
+    border-radius: 20px;
+}
+.responsive-img {
     margin-top: 35%;
 }
-
-.btn {
-    margin-top: 5%;
+label{
+    color: rgb(9, 26, 41);
 }
-
-.responsive-img {
-    margin-top: 30%;
+.btn{
+    margin-top: 5%;
+    background: rgb(205, 117, 50);
+}
+body{
+    background:yellowgreen;
+}
+ 
+span{
+    font-size: 1.5em;
+}
+ 
+input{
+    color: black;
 }
